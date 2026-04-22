@@ -1,16 +1,21 @@
-## Hi there 👋
+# Salom, men Bunyod! 👋
 
-<!--
-**begzodqodirov827-stack/begzodqodirov827-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Men haqimda
+Men dasturlashga qiziqaman va hozirda asosan **JavaScript** texnologiyalarini o'rganmoqdaman. Kod yozish orqali yangi loyihalar yaratish va mantiqiy masalalarni yechishni yaxshi ko'raman.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Texnologiyalar va bilimlar
+* **Dasturlash tili:** JavaScript (ES6+)
+* **Yo'nalish:** Web Development (Frontend/Backend)
+* **Vositlar:** Git, GitHub, VS Code
+
+---
+
+### 📈 GitHub Statistikasi
+![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=begzodqodirov827-stack&show_icons=true&theme=dracula)
+
+---
+
+### 🤝 Aloqa
+Mening loyihalarimga qiziqish bildirganingiz uchun rahmat! Men bilan bog'lanish yoki savollar berish uchun GitHub orqali xabar qoldirishingiz mumkin.
